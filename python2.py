@@ -5,3 +5,4 @@ if number%2==0:
                print("number is even" )
 else: 
      print("number is odd")
+#this is all about even and odd number in python code.
